@@ -1,5 +1,4 @@
 # 💫 About Me:
-Newbie!!
 
 Lazy by nature...so only short precise working solutions
 
