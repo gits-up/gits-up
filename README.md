@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Lazy by nature...so only short precise working solutions.
+Just do what I have to do, no matter what.🫥
 
 
 # 💻 Tech Stack:
