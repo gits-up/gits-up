@@ -13,6 +13,8 @@ Lazy by nature...so only short precise working solutions
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=gits-up&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
+[![An image of @gitsup's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gitsup)](https://holopin.io/@gitsup)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=gits-up&icon=0&color=0)](https://visitcount.itsvg.in)
 
