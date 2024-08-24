@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Just do what I have to do, no matter what.🫥
+Just doing something new and different 🥲
 
 
 # 💻 Tech Stack:
