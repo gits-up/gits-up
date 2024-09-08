@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Just doing something new and different 🥲
+Trying to do something new and different 🥲
 
 
 # 💻 Tech Stack:
