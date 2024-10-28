@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Trying to do something new and optimize and previous ones 🤩
+Trying to create something new and reviewing previous ones 🤩
 
 
 # 💻 Tech Stack:
