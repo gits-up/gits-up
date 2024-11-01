@@ -16,6 +16,8 @@ Trying to create something new and reviewing previous ones 🤩
 [![An image of @gitsup's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gitsup)](https://holopin.io/@gitsup)
 
 ---
+## Postman
+![](https://api.badgr.io/public/assertions/OU9YE-9QSfGS3oAcjoYc5Q?identity__email=sayakbanerjee155%40gmail.com)
 [![](https://visitcount.itsvg.in/api?id=gits-up&icon=0&color=0)](https://visitcount.itsvg.in)
 
   
