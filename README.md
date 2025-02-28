@@ -2,6 +2,8 @@
 # 💫 About Me:
 
 🤩
+![My Credly Badge](https://imgur.com/yKLZHae)
+
 
 
 # 💻 Tech Stack:
