@@ -2,6 +2,7 @@
 # 💫 About Me:
 Creating more new stuffs!
 <div align="right">
+  <img src="https://i.imgur.com/dqO6XOu.png" width="150" alt="My Credly Badge">
   <img src="https://i.imgur.com/yKLZHae.png" width="150" alt="My Credly Badge">
 </div>
 
