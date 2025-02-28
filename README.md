@@ -2,7 +2,7 @@
 # 💫 About Me:
 
 🤩
-![My Credly Badge](https://imgur.com/yKLZHae)
+![My Credly Badge](https://i.imgur.com/yKLZHae.png)
 
 
 
