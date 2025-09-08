@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 Creating more new stuffs!
-<div style="display: flex; justify-content: flex-end; gap: 10px;">
+<div align="right">
   <img src="https://i.imgur.com/dqO6XOu.png" width="150" alt="My Credly Badge">
   <img src="https://i.postimg.cc/P5htbG3q/OCI25-FNDCFA.jpg" width="150" alt="My Badge">
   <img src="https://i.imgur.com/yKLZHae.png" width="150" alt="My Credly Badge">
