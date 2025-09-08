@@ -3,14 +3,8 @@
 Creating more new stuffs!
 <div align="right">
   <img src="https://i.imgur.com/dqO6XOu.png" width="150" alt="My Credly Badge">
-  <img src="https://i.postimg.cc/P5htbG3q/OCI25-FNDCFA.jpg" width="150" alt="My Badge">
   <img src="https://i.imgur.com/yKLZHae.png" width="150" alt="My Credly Badge">
-</div>
-
-<div align="right">
-  <img src="https://i.imgur.com/dqO6XOu.png" width="150" alt="GitHub Foundations" style="vertical-align: middle;"/>
-  <img src="https://i.postimg.cc/P5htbG3q/OCI25-FNDCFA.jpg" width="120" alt="Oracle Cloud Foundations Associate" style="vertical-align: middle; margin-top:-15px;"/>
-  <img src="https://i.imgur.com/yKLZHae.png" width="150" alt="MongoDB Associate Developer" style="vertical-align: middle;"/>
+  <img src="https://i.postimg.cc/P5htbG3q/OCI25-FNDCFA.jpg" width="150" alt="My Badge">
 </div>
 
 
