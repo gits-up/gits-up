@@ -5,8 +5,8 @@ Creating more new stuffs!
   <img src="https://i.imgur.com/dqO6XOu.png" width="150" alt="My Credly Badge">
   <img src="https://i.imgur.com/yKLZHae.png" width="150" alt="My Credly Badge">
   <img src="https://i.postimg.cc/P5htbG3q/OCI25-FNDCFA.jpg" width="150" alt="My Badge">
+  <img src="https://i.postimg.cc/1tmG0QBF/sap-certified-sap-generative-ai-developer.png" width="150" alt="SAP Generative AI Developer Certification">
 </div>
-[![sap-certified-sap-generative-ai-developer.png](https://i.postimg.cc/1tmG0QBF/sap-certified-sap-generative-ai-developer.png)](https://postimg.cc/zLQH549D)
 
 
 
